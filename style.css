@@ -1,0 +1,17 @@
+body {
+    font-family: Montserrat;
+}
+
+footer {
+  background-color: royalblue;
+  color:white;
+}
+.results {
+    border-color: black;
+    border-radius: 1em;
+
+}
+.navbar {
+    background-color: royalblue;
+    color:white;
+}
